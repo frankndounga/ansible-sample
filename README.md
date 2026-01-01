@@ -1,4 +1,4 @@
-# ansible-sample
+# configuration de la communication entre les nodes
 Ceci concerne l'installation d'ansible dans la méthode que je trouve la plus adaptée et permettre la commmunication entre le node-manager et les nodes.
 NB: Je ne liste pas les commandes pour le workflow git parceque ce sont les commandes de bases utilisé en gestion de version (juste tenir compte du fait que chaque fois que l'on fait une action qui necessite une sauvegarde on versionne)
 Pour quelqu'un qui n'a pas de vm une méthode adapté serait d'utiliser des conteneurs avec un peu de configuration sur ceux ci on pourra faire le test de communication.
